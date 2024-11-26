@@ -1,11 +1,11 @@
 # Vertex-Shader
 
 ## ELP831: IEC Lab-1
-> Prof. Kaushik Saha & Prof. Jayadeva
+> Instructors: Prof. Kaushik Saha & Prof. Jayadeva
 
 ### **Assignment 2: Vertex Shader**
 
-Team Effort by:
+Team effort along with [@rdr2211](https://www.github.com/rdr2211) 
 
 | Entry Number |      Name    |
 |--------------|--------------|
